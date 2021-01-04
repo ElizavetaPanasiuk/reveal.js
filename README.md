@@ -47,9 +47,7 @@ A component is a piece of the user interface. So, when building applications wit
 
 Every React app has at least one component, which we call the root component. This component represents the entire application and contains other child components. So, every React application is a tree of components. 
 
-![App.js](images/appJs.png)
-
-![NavBar.js](images/NavbarJs.png)
+![App.js](images/appJs.png) ![NavBar.js](images/NavbarJs.png)
 
 Here’s an example, if we want to build application like twitter, we can split this pages into components like NavBar, Profile, Trends, Feeds (which includes several components).
 
