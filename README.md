@@ -54,7 +54,7 @@ Every React app has at least one component, which we call the root component. Th
 Here’s an example, if we want to build application like twitter, we can split this pages into components like NavBar, Profile, Trends, Feeds (which includes several components).
 
 So as you see each component is a piece of UI. We can build these components in isolation and then put them together to build complex user interfaces.
-Let’s consider an example of code written using reactJs. On the first piece of code we can see main component called App, which includes other components. Each component is representing by special tag. On the second piece of code we see a component NavBar. So the application consists of such little simple components represented by function that can be used as a tag with function name. 
+Let’s consider an example of code written using reactJs. On the first piece of code we can see main component called App, which includes other components. Each component is represented by special tag. On the second piece of code we see a component NavBar. So the application consists of such little simple components represented by function that can be used as a tag with function name. 
 
 We see that React is really powerful tool for creating web-applications.
 
