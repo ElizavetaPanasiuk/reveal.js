@@ -1,6 +1,6 @@
 Link to video: 
 
-Link to slides:
+Link to slides: https://elizavetapanasiuk.github.io/reveal.js/#/slide1
 # React
 React is a declarative, efficient, and flexible JavaScript library for building user interfaces. 
 
