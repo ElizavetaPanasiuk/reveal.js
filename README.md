@@ -1,4 +1,4 @@
-Link to video: 
+Link to video: https://www.youtube.com/watch?v=kl5m7eDupUc&feature=youtu.be
 
 Link to slides: https://elizavetapanasiuk.github.io/reveal.js/#/slide1
 # React
