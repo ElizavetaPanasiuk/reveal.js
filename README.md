@@ -1,4 +1,5 @@
 Link to video: 
+
 Link to slides:
 # React
 React is a declarative, efficient, and flexible JavaScript library for building user interfaces. 
@@ -45,6 +46,10 @@ At the heart of all React applications are components.
 A component is a piece of the user interface. So, when building applications with React, we build a lot of independent, isolated and reusable components and then compose them to build complex user interfaces.
 
 Every React app has at least one component, which we call the root component. This component represents the entire application and contains other child components. So, every React application is a tree of components. 
+
+![App.js](images/appJs.png)
+
+![NavBar.js](images/NavbarJs.png)
 
 Here’s an example, if we want to build application like twitter, we can split this pages into components like NavBar, Profile, Trends, Feeds (which includes several components).
 
